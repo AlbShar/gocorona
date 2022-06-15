@@ -1,4 +1,5 @@
-Исправления:
+## [GoCorona](https://albshar.github.io/gocorona/) - the one page website with function of toggle to black or white theme.
+![](https://github.com/AlbShar/gocorona/blob/master/gifs/black_theme.gif)
 
-1) Подумать над добавлением фильтров к первой картинке
-2) Добавить контактную форму при клике на вкладку "contact us"
+### For creating the project were use:
+- HTML, CSS, vanilla Javascript;
